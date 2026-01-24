@@ -39,7 +39,8 @@ __pycache__/
 
 # Build outputs
 frontend/build/
-frontend/.env.local
+frontend/.env
+backend/.env
 
 # OS files
 .DS_Store
